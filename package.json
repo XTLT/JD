@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/XTLT/JD#readme",
   "dependencies": {
-    "got": "^11.8.6",
-    "jsdom": "^22.1.0"
+    "got": "11.8.6",
+    "jsdom": "22.1.0",
+    "lru-cache": "10.2.0"
   }
 }
