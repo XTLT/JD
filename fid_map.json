@@ -1,0 +1,215 @@
+{
+  "jd_XinFarm_draw.js": [
+    {
+      "fid": "apTaskList",
+      "appid": "activities_platform",
+      "body": null,
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_bean_change.js": [
+    {
+      "fid": "user_getUserInfo_v2",
+      "appid": "plus_business",
+      "body": "{\"qids\":\"6_2_5_18_1_7_9_11_12_14_16_17_25\",\"checkLevel\":1,\"signType\":1003,\"contentType\":\"1_2_3_4_5_8_9_11_12_16_17_18\",\"skuSourceId\":600008}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "myBeanHome",
+      "appid": "jd-home-mybean",
+      "body": "{\"needDetails\":true,\"needResourceItems\":true}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_daka_bean.js": [
+    {
+      "fid": "interact_game_sign",
+      "appid": "activities_platform",
+      "body": "{\"encryptAssignmentId\":\"2VRGziZArS6SGUr3VVWnzFQLFhsJ\",\"itemId\":\"1\",\"version\":\"2.0\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_dplh0408.js": [],
+  "jd_dplh0420.js": [],
+  "jd_dplh0509.js": [],
+  "jd_dplh0523.js": [],
+  "jd_dplh0609.js": [],
+  "jd_dplhbshop.js": [],
+  "jd_farmnew_ck_help.js": [
+    {
+      "fid": "DATAWALLET_USER_SIGN",
+      "appid": "h5-sep",
+      "body": "{\"t\":1789803142933,\"encStr\":\"68bf0ce4acbf2a03b589bf7354c7c073\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_hssign.js": [
+    {
+      "fid": "jdh_laputa_getOsConfigListByCon",
+      "appid": "laputa",
+      "body": "{\"osName\":\"aiCommonCheck\",\"version\":13,\"configType\":1}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "jdh_laputa_queryFloorList3",
+      "appid": "laputa",
+      "body": "{\"osName\":\"onlineDoctorWel\",\"version\":10,\"functionId\":\"index\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "jdh_laputa_isLogin",
+      "appid": "laputa",
+      "body": "{}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "jdh_bff_queryTaskList",
+      "appid": "laputa",
+      "body": "{\"activityId\":\"37252\",\"appKey\":\"250520900001\",\"channel\":\"jdhapp\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "jdh_msoa_queryAwardGw",
+      "appid": "laputa",
+      "body": "{\"appKey\":\"250520900001\",\"activityId\":\"37252\",\"channel\":\"jdhapp\",\"awardType\":2}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "jdh_bm_getKitTask",
+      "appid": "jdh-middle",
+      "body": "{\"m_patch_appKey\":\"250520900001\",\"groupCode\":\"openkits\",\"channel\":\"jdhapp\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "jdh_msoa_doTaskGw",
+      "appid": "JDHAPP",
+      "body": "{\"appKey\":\"250520900001\",\"channel\":\"jdhapp\",\"infoId\":\"2026-09-19T07:32:24.473Z\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_joypark_leave.js": [
+    {
+      "fid": "getStaticResource",
+      "appid": "activities_platform",
+      "body": "{\"linkId\":\"99DZNpaCTAv8f4TuKXr0Ew\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "checkUserIndulge",
+      "appid": "activities_platform",
+      "body": null,
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_jxfl.js": [
+    {
+      "fid": "common_task_list",
+      "appid": "SecKill2020",
+      "body": "{\"channelId\":\"7\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_lhgz0408.js": [],
+  "jd_pkabeans.js": [
+    {
+      "fid": "personalCenterBuyHolderInfo",
+      "appid": "mygiftcard",
+      "body": "{\"type\":\"2\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_plantBean_friend.js": [
+    {
+      "fid": "plantBeanIndex",
+      "appid": null,
+      "body": null,
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_plantBean_help.js": [
+    {
+      "fid": "plantFriendList",
+      "appid": "signed_wh5",
+      "body": null,
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_qy_sign.js": [
+    {
+      "fid": "bff_rights_center_index",
+      "appid": "plus_business",
+      "body": "{\"baseVersion\":\"2.0.0\",\"modelVersion\":\"2.0.0\",\"queryTypes\":\"SIGN_DAILY\",\"scene\":\"index\",\"otherApis\":[{\"api\":\"balance_abTest_v3\",\"businessParam\":{\"procudtAndExpResultList\":\"[{\\\"productLine\\\": \\\"WJQYZX\\\",\\\"expIdWithDefautExpLabel\\\": {\\\"WJQYZX_78369\\\": \\\"base\\\"}}]\"}}]}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "plantBeanIndex",
+      "appid": null,
+      "body": null,
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_signbeanact_.js": [
+    {
+      "fid": "bff_rightsCenter_interaction",
+      "appid": "signed_wh5",
+      "body": "{\"scene\":\"commonDoInteractiveAssignment\",\"activityCode\":\"beanDailySign\",\"businessScenario\":\"jingDouCenter\",\"commonScene\":\"secKillChannel\",\"assignmentId\":\"VdbAAQEQ4t6u7ZommctabgaobfW\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "apReportTaskPreInfo",
+      "appid": "activities_platform",
+      "body": "{\"babelChannel\":\"ttt24\",\"linkId\":\"4HcenxuZM4XiHesOb1HG4g\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_sldraw.js": [
+    {
+      "fid": "bff_rights_center_index_sign",
+      "appid": "plus_business",
+      "body": "{\"baseVersion\":\"2.0.0\",\"scene\":\"signBlindDaily\",\"area\":\"\",\"gcLat\":0,\"gcLng\":0}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "bff_rights_center_index",
+      "appid": "plus_business",
+      "body": "{\"baseVersion\":\"2.0.0\",\"modelVersion\":\"2.0.0\",\"queryTypes\":\"SIGN_DAILY\",\"scene\":\"index\",\"otherApis\":[{\"api\":\"balance_abTest_v3\",\"businessParam\":{\"procudtAndExpResultList\":\"[{\\\"productLine\\\": \\\"WJQYZX\\\",\\\"expIdWithDefautExpLabel\\\": {\\\"WJQYZX_78369\\\": \\\"base\\\"}}]\"}}]}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_superRedBagDraw.js": [
+    {
+      "fid": "superRedBagHome",
+      "appid": "activity_platform_se",
+      "body": "{\"linkId\":\"3uSQA8Fn00J70jWc9Pk0iw\"}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_ttgd.js": [
+    {
+      "fid": "bff_rightsCenter_jdInteractTask",
+      "appid": "plus_business",
+      "body": "{\"taskType\":\"beanDailySign_beanDailyPlus_newBeanTask\",\"scene\":\"jdInteractTask\",\"otherApis\":[{\"api\":\"bff_exec_func\",\"businessParam\":{\"firstDomain\":\"rightsCenter\",\"secondDomain\":\"userInfo\",\"contentType\":\"27\",\"scene\":\"userInfo\"}}]}",
+      "host": "api.m.jd.com"
+    }
+  ],
+  "jd_weGameLottery.js": [
+    {
+      "fid": "interactGameRewardJudge",
+      "appid": "activities_platform",
+      "body": "{\"envType\":1,\"linkId\":\"QKltPCgCHnIo52E2yaoM5w\",\"babelChannel\":\"ttt106\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "interactGameReward",
+      "appid": "activities_platform",
+      "body": "{\"envType\":1,\"linkId\":\"QKltPCgCHnIo52E2yaoM5w\",\"babelChannel\":\"ttt106\"}",
+      "host": "api.m.jd.com"
+    },
+    {
+      "fid": "weGameHome",
+      "appid": "wegame-hub",
+      "body": "{\"envType\":1,\"linkId\":\"MWC_-5cWq-JH1wrPPteH4w\",\"babelChannel\":\"ttt106\"}",
+      "host": "api.m.jd.com"
+    }
+  ]
+}

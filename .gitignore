@@ -1,0 +1,18 @@
+# 敏感信息
+jd_config.json
+*.db
+*.sqlite
+*.json.bak
+
+# 临时文件
+out.txt
+*.log
+flows.mitm
+mitm.log
+
+# node_modules
+node_modules/
+
+# Python 缓存
+__pycache__/
+*.pyc
