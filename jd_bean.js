@@ -4,10 +4,10 @@
  * 运行：node jd_bean.js
  */
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
-require('../faker2/dns_bootstrap.js');
+require('./dns_bootstrap.js');
 const fs = require('fs');
 const path = require('path');
-const { signRequest, UA } = require('../faker2/signer.js');
+const { signRequest, UA } = require('./signer.js');
 
 const CONFIG = path.join(__dirname, '..', 'jd_config.json');
 

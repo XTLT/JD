@@ -27,7 +27,7 @@ async function main() {
   const mods = ['axios', 'got', 'crypto-js', 'tough-cookie', 'https-proxy-agent', 'moment', 'qs'];
   console.log('\n[模块检测]');
   for (const m of mods) {
-    try { require.resolve(m, { paths: ['C:\\Users\\z\\Desktop\\adb\\faker2'] }); console.log(`  ✓ ${m}`); }
+    try { require.resolve(m); console.log(`  ✓ ${m}`); }
     catch { console.log(`  ✗ ${m} (未安装)`); }
   }
 

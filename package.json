@@ -1,0 +1,24 @@
+{
+  "name": "jd_auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dns_bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XTLT/JD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XTLT/JD/issues"
+  },
+  "homepage": "https://github.com/XTLT/JD#readme",
+  "dependencies": {
+    "got": "^11.8.6",
+    "jsdom": "^22.1.0"
+  }
+}

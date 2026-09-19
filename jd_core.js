@@ -4,10 +4,10 @@
  * 所有重写脚本统一 require 本模块
  */
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
-require('../faker2/dns_bootstrap.js');
+require('./dns_bootstrap.js');
 const fs = require('fs');
 const path = require('path');
-const { signRequest } = require('../faker2/signer.js');
+const { signRequest } = require('./signer.js');
 
 const ROOT = path.join(__dirname, '..');
 const CONFIG = path.join(ROOT, 'jd_config.json');
